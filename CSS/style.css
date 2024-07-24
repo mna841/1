@@ -95,7 +95,7 @@ img {
 /*NEWS
 ------------------------------*/
 #news {
-    background-image: url(../images/news-bg.jpg);
+    background-image: url(https://github.com/mna841/1/blob/main/images/news-bg.jpg?raw=true);
     height: 270px;
     margin-bottom: 40px;
 }
@@ -289,7 +289,7 @@ aside p {
 /*MENU
 -------------------------------*/
 #menu {
-    background-image: url(../images/menu-bg.jpg);
+    background-image: url(https://github.com/mna841/1/blob/main/images/menu-bg.jpg?raw=true);
     min-height: 100vh;
 }
 .menu-content {
@@ -323,7 +323,7 @@ aside p {
 /*COTACT
 --------------------------*/
 #contact {
-    background-image: url(../images/contact-bg.jpg);
+    background-image: url(https://github.com/mna841/1/blob/main/images/contact-bg.jpg?raw=true);
     min-height: 100vh;
 }
 
